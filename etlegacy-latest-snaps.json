@@ -1,0 +1,10 @@
+{
+  "lnxx8664"              : "https://www.etlegacy.com/workflow-files/dl/b6727a981243f0aab23267dfe24d673714b36b99/lnxx8664/etlegacy-v2.82.1-332-gb6727a9-x86_64.tar.gz",
+  "lnxx8632"              : "https://www.etlegacy.com/workflow-files/dl/b6727a981243f0aab23267dfe24d673714b36b99/lnxx8632/etlegacy-v2.82.1-332-gb6727a9-i386.tar.gz",
+  "osxMulti-Platform64"   : "https://www.etlegacy.com/workflow-files/dl/b6727a981243f0aab23267dfe24d673714b36b99/osxMulti-Platform64/etlegacy-v2.82.1-332-gb6727a9.dmg",
+  "winx8632"              : "https://www.etlegacy.com/workflow-files/dl/b6727a981243f0aab23267dfe24d673714b36b99/winx8632/etlegacy-v2.82.1-332-gb6727a9-x86.zip",
+  "winx8664"              : "https://www.etlegacy.com/workflow-files/dl/b6727a981243f0aab23267dfe24d673714b36b99/winx8664/etlegacy-v2.82.1-332-gb6727a9-x64.zip",
+  "androMulti-Platform64" : "https://www.etlegacy.com/workflow-files/dl/b6727a981243f0aab23267dfe24d673714b36b99/androMulti-Platform64/etlegacy-v2.82.1-332-gb6727a9.apk",
+  "lnxarm64"              : "https://www.etlegacy.com/workflow-files/dl/b6727a981243f0aab23267dfe24d673714b36b99/lnxarm64/etlegacy-v2.82.1-332-gb6727a9-aarch64.tar.gz",
+  "modOTHER32"            : "https://www.etlegacy.com/workflow-files/dl/b6727a981243f0aab23267dfe24d673714b36b99/modOTHER32/etlegacy-mod-v2.82.1-332-gb6727a9.zip"
+}
